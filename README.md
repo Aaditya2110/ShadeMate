@@ -1,4 +1,4 @@
-# app
+# ShadeMate
 
 A new Flutter project.
 
